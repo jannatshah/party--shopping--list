@@ -1,3 +1,7 @@
 cocktails
 Hello how are you
+<<<<<<< HEAD
 Some more editing in Sublime text
+=======
+hello
+>>>>>>> origin/master
